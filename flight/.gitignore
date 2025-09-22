@@ -1,2 +1,5 @@
 *.txt
 text4.txt
+config.js
+/temp
+
