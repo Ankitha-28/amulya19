@@ -2,4 +2,5 @@
 text4.txt
 config.js
 /temp
+!text1.txt
 
